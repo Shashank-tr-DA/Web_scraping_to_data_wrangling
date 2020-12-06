@@ -1,0 +1,3 @@
+In this scraping project I scrape a review website named Trustpilot.com that have reviews of customers and a score named Trustscore which was assigned by this website.
+In this website there are so many categories I choose restaurant category and collect urls of all page then start scraping.
+I scrape the restaurant data in a csv file.
