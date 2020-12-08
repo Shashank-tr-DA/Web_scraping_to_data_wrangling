@@ -1,0 +1,3 @@
+In this projects I scrape the ecommerce website named Flipkart, I think all of you know this website.
+I write python script using BeautifulSoup library to scrape laptop data like brand name, price, ratings, rating and review count, then load all the data in a csv file.
+I use this csv file and give it a well structure using pandas library.
